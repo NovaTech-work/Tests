@@ -1,0 +1,11 @@
+requests
+robotframework
+robotframework-pythonlibcore
+robotframework-selenium2library
+robotframework-seleniumlibrary
+robotframework-pabot
+selenium
+DateTime
+numpy
+playwright
+pytest-playwright
